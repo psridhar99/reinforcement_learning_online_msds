@@ -4,23 +4,28 @@
 
 ### Admin Items
 
-- Class next week to be held during office hours Sep 9th from 8pm-9pm ET in place of Sep 11th
 
 ---
 
 
 ### Upcoming Deliverables
 
-Due Friday, Sep 5, 2025 at 11:59pm ET:
 
-- Lab 1: Cart Pole I 
+Due Friday, May 29, 2026 at 11:59pm ET:
+- Lab 1: Cart Pole I
 - Quiz 1: RL Essentials
+
+Due Friday, June 12, 2026 at 11:59pm ET:
+- Quiz 2: Bandit Problems, Dynamic Programming, and Monte Carlo Approaches.
+- Lab 2: Value Iteration.
+- Journaling: Modules 1-3 completed
+
+
+
 ---
 
 ### Content
 
-- Review Notebook: RL Fundamentals
-  - epsilon greedy
 
 - Cart Pole Lab
   important functions:  
@@ -28,7 +33,6 @@ Due Friday, Sep 5, 2025 at 11:59pm ET:
   env.reset()  
   env.step()
 
-  quick review of gymnasium cart pole source code
 
 - Start on k-armed bandits  
   Review notebook k-armed bandit
