@@ -1,6 +1,9 @@
-```markdown
-Journal Entry: Modules 1-3
 
+```markdown
+Student: Pranav Sridhar (ps2pw)
+
+Journal Entry: Modules 1-3
+---------------------------------
 The first thing that clicked for me is how RL is fundamentally different from supervised and unsupervised learning, in that data isn't inherently strucured or fed to the neural net in a tabular format like prior ML methods. The core training loop of RL is a tuple ofstate, action, reward, and next state. With RL, the agent has to discover the optimal policy through mapping states to actions and learning from rewards/penalties.
 
 The k-armed bandit problem was unique to me given how it was a use case of RL where the state space was discrete and the action space was a single dimension. 
